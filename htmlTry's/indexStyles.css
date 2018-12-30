@@ -1,0 +1,10 @@
+body {
+	color: red;
+}
+header {
+	background-color: lightblue;
+	width: 100%;
+	margin: 0px;
+	min-height: 50px;
+	height: 15%;
+}
